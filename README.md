@@ -16,7 +16,7 @@ Social Network API
 -First you'll need to clone the repo. Then you'll have to run 
 'npm i" in the terminal. Next just Post away!
 -Demo video:
-![](./video/Post%20It%20demo.mp4)
+https://github.com/tylerundrwood/Post-It/assets/127794410/91d692ac-42fa-4bb5-9c11-d806015d55f0
 
 ## Credits
 
